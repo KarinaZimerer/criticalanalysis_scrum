@@ -2,7 +2,6 @@
 # Esse repositório  foi criado para publicar uma  analise critica de um estudo de caso Scrum
 
 # Análise Crítica: Case de Sucesso da Saab Defense
-# É um estudo de caso da eficácia do Scrum para criar software de missão crítica.
 
 #-------------------------------------------------------------------------------------------------------------------------#
 
@@ -36,7 +35,7 @@ No entanto, é importante ter em mente que cada projeto é único e que a adoç�
 organização e do projeto em questão.
 
 #-------------------------------------------------------------------------------------------------------------------------------------------------#
-Perguntas propostar para esse desafio de analise critica de um caso de estudo scrum.
+Perguntas propostas para esse desafio de analise critica de um caso de estudo scrum.
 
 1. Porque a abordagem ágil foi utilizada para o estudo acima e nao a tradicional?
 
